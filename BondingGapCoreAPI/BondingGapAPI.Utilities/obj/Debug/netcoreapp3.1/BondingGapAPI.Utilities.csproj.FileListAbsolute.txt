@@ -1,0 +1,8 @@
+F:\CuongIT\Azure\BondingGapCoreV2\BondingGapCore\BondingGapCoreAPI\BondingGapAPI.Utilities\bin\Debug\netcoreapp3.1\BondingGapAPI.Utilities.deps.json
+F:\CuongIT\Azure\BondingGapCoreV2\BondingGapCore\BondingGapCoreAPI\BondingGapAPI.Utilities\bin\Debug\netcoreapp3.1\BondingGapAPI.Utilities.dll
+F:\CuongIT\Azure\BondingGapCoreV2\BondingGapCore\BondingGapCoreAPI\BondingGapAPI.Utilities\obj\Debug\netcoreapp3.1\BondingGapAPI.Utilities.csprojAssemblyReference.cache
+F:\CuongIT\Azure\BondingGapCoreV2\BondingGapCore\BondingGapCoreAPI\BondingGapAPI.Utilities\obj\Debug\netcoreapp3.1\BondingGapAPI.Utilities.AssemblyInfoInputs.cache
+F:\CuongIT\Azure\BondingGapCoreV2\BondingGapCore\BondingGapCoreAPI\BondingGapAPI.Utilities\obj\Debug\netcoreapp3.1\BondingGapAPI.Utilities.AssemblyInfo.cs
+F:\CuongIT\Azure\BondingGapCoreV2\BondingGapCore\BondingGapCoreAPI\BondingGapAPI.Utilities\bin\Debug\netcoreapp3.1\BondingGapAPI.Utilities.pdb
+F:\CuongIT\Azure\BondingGapCoreV2\BondingGapCore\BondingGapCoreAPI\BondingGapAPI.Utilities\obj\Debug\netcoreapp3.1\BondingGapAPI.Utilities.dll
+F:\CuongIT\Azure\BondingGapCoreV2\BondingGapCore\BondingGapCoreAPI\BondingGapAPI.Utilities\obj\Debug\netcoreapp3.1\BondingGapAPI.Utilities.pdb

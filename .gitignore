@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BondingGapCoreAPI/.vs/BondingGapCoreAPI/DesignTimeBuild
+/BondingGapCoreAPI/.vs/BondingGapCoreAPI/v16
+/BondingGapCoreAPI/BondingGapAPI.Data/bin/Debug/netcoreapp3.1
+/BondingGapCoreAPI/BondingGapAPI.Data/obj
+/BondingGapCoreAPI/BondingGapAPI.Data.EF/bin/Debug/netcoreapp3.1
+/BondingGapCoreAPI/BondingGapAPI.Data.EF/obj
+/BondingGapCoreAPI/BondingGapAPI.Infrastructure/bin/Debug/netcoreapp3.1
+/BondingGapCoreAPI/BondingGapAPI.Infrastructure/obj
+/BondingGapCoreAPI/BondingGapCore.Application/bin/Debug/netcoreapp3.1
+/BondingGapCoreAPI/BondingGapCore.Application/obj
+/BondingGapCoreAPI/BondingGapCoreAPI/bin/Debug/netcoreapp3.1
+/BondingGapCoreAPI/BondingGapCoreAPI/obj
